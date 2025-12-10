@@ -22,7 +22,7 @@ ng add @angular-architects/native-federation --save-dev
 - Tạo remote mfe1: *Sắp được thêm*
 ### Bước 5: Import các remote
 - Tạo thư mục assets và thêm vào angular.json (nếu chưa có):
-```json
+```
 ...
     "builder": "@angular/build:application",
     "options": {
@@ -47,7 +47,7 @@ ng add @angular-architects/native-federation --save-dev
 ...
 ```
 - Thêm file `federation.manifest.json` vào thư mục assets (không thêm vào assets cũng được, nếu không thêm thì trong angular.json thêm đường dẫn tới file này).
-```json
+```
 {
     "mfe1": "http://localhost:3001/remoteEntry.json"
     ... //Các remote khác
