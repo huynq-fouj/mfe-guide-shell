@@ -1,5 +1,5 @@
 ## Shell
-- Các bước tạo app shell (root) trong cấp trúc MicroFrontend với dự án angular 18 được tạo trước khi thêm @angular-architects/native-federation.
+- Các bước tạo app shell (root) trong cấu trúc MicroFrontend với dự án angular 18 được tạo trước khi thêm @angular-architects/native-federation.
 ### Bước 1: Cài đặt angular
 - Tải `@angular/cli` bản 18.
 ```powershell
