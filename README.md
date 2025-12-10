@@ -83,7 +83,7 @@ loadRemoteModule({
 npm start
 ```
 ---
-- Dự án tham khảo: [remote-host.vercel.app](https://remote-host.vercel.app/).
+- Dự án tham khảo khác: [remote-host.vercel.app](https://remote-host.vercel.app/).
 - Remote host: [github](https://github.com/huynq-fouj/remote-host).
 - Remote products: [github](https://github.com/huynq-fouj/remote-products).
 - Remote cart: [github](https://github.com/huynq-fouj/remote-cart).
