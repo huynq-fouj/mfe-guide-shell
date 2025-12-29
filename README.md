@@ -19,7 +19,7 @@ ng add @angular-architects/native-federation --save-dev
 ```
 - Sử dụng lệnh ng add để tự động thay đổi cấu hình file [package.json](./package.json), [angular.json](./angular.json), [main.ts](./src/main.ts) và tự động tạo file [federation.config.js](./federation.config.js).
 ### Bước 4: Tạo các remote app
-- Tạo remote mfe1: *Sắp được thêm*
+- Tạo remote mfe1: [Tạo remote test](https://github.com/huynq-fouj/mfe-guide-remote-app/blob/master/README.md)
 ### Bước 5: Import các remote
 - Tạo thư mục assets và thêm vào angular.json (nếu chưa có):
 ```
